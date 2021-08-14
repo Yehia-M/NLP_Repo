@@ -1,6 +1,6 @@
 # NLP_Repo
 
-Assignments for NLP specialization on Coursera.
+Projects for NLP specialization on Coursera.
 
 (1) Building a simple sentiment analysis on tweets.
 There are two versions; V1 : Using Logistic Regression and V2 : Using Naive Bayes.
