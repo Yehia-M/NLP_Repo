@@ -12,3 +12,5 @@ There are two versions; V1 : Using Logistic Regression and V2 : Using Naive Baye
 	a- identify misspelled word
 	b- find words "n- distance" away from the misspelled word
 	c- calculates the probability of the word
+
+(4) Parts-of-Speech Tagging project: using Viterbi algorithm to determine the <PoS> of a given word
