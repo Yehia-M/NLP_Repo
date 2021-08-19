@@ -14,3 +14,5 @@ There are two versions; V1 : Using Logistic Regression and V2 : Using Naive Baye
 	c- calculates the probability of the word
 
 (4) Parts-of-Speech Tagging project: using Viterbi algorithm to determine the <PoS> of a given word
+
+(5) Auto Complete program to predict the next word for a given sentence, the program uses n-gram probability to suggest the next word/words
