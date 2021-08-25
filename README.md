@@ -15,4 +15,6 @@ There are two versions; V1 : Using Logistic Regression and V2 : Using Naive Baye
 
 (4) Parts-of-Speech Tagging project: using Viterbi algorithm to determine the <PoS> of a given word
 
-(5) Auto Complete program to predict the next word for a given sentence, the program uses n-gram probability to suggest the next word/words
+(5) Auto Complete: program to predict the next word for a given sentence, the program uses n-gram probability to suggest the next word/words
+
+(6) Language Model: To improve the auto complete project by using deep neural network (GRU) to build a language model insted of n-gram method
