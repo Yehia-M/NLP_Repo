@@ -5,6 +5,7 @@ Projects for NLP specialization on Coursera.
 * Auto Complete - Building a language model using n-gram probability to suggest the next word/words for a given sentence
 
 * Auto Correction - Find misspelled word and correct it by doing the next steps:
+
 	a- identify misspelled word
 	
 	b- find words "n-edits" away from the misspelled word
