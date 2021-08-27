@@ -7,7 +7,9 @@ Projects for NLP specialization on Coursera.
 * Auto Correction - Find misspelled word and correct it by doing the next steps:
 	
 	a- identify misspelled word
+	
 	b- find words "n-edits" away from the misspelled word
+	
 	c- calculates the probability of the word
 	* The program doesn't use neural networks but depends on the corpus for probs
 
