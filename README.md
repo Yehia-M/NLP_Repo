@@ -2,20 +2,26 @@
 
 Projects for NLP specialization on Coursera.
 
-(1) Building a simple sentiment analysis on tweets.
-There are two versions; V1 : Using Logistic Regression and V2 : Using Naive Bayes.
+* Auto Complete - Building a language model using n-gram probability to suggest the next word/words for a given sentence
 
-(2) Very simple machine translator, english to french using word2vec dataset and k-nearest neighbors KNN algorithm
-
-(3) Auto Correction algorithm to find misspelled word and correct it by doing the next steps:
+* Auto Correction - Find misspelled word and correct it by doing the next steps:
 	
 	a- identify misspelled word
-	b- find words "n- distance" away from the misspelled word
+	b- find words "n-edits" away from the misspelled word
 	c- calculates the probability of the word
+	* The program doesn't use neural networks but depends on the corpus for probs
 
-(4) Parts-of-Speech Tagging project: using Viterbi algorithm to determine the <PoS> of a given word
+* Language Model GRU - Improvement to the auto complete project by using gated recurrent unit (GRU) to build a language model insted of n-gram method.
+	* The model is built using Trax framework from Google
 
-(5) Auto Complete: program to predict the next word for a given sentence, the program uses n-gram probability to suggest the next word/words
+* Machine Translation KNN - Simple english to french machine translator using word2vec dataset to encode the sentence and k-nearest neighbors (KNN) to find the most probable sentence
 
-(6) Language Model: To improve the auto complete project by using deep neural network (GRU) to build a language model insted of n-gram method.
-* The model is built using Trax framework from Google
+* Named Entity Recognition LSTM - NER using Embedded layer and LSTM network on Trax
+
+* Parts-of-Speech Tagging - using Viterbi algorithm and hidden markov model (HMM) to determine the <PoS> of a given word
+
+
+* Sentiment Analysis on Tweets:
+	* Version 1 - Using Logistic Regression
+	* Version 2 - Using Naive Bayes
+	* Version 3 - Using Deep Neural Network on Trax
