@@ -5,13 +5,13 @@ Projects for NLP specialization on Coursera.
 * Auto Complete - Building a language model using n-gram probability to suggest the next word/words for a given sentence
 
 * Auto Correction - Find misspelled word and correct it by doing the next steps:
-	
+	* The program doesn't use neural networks but depends on the corpus for probs
 	a- identify misspelled word
 	
 	b- find words "n-edits" away from the misspelled word
 	
 	c- calculates the probability of the word
-	* The program doesn't use neural networks but depends on the corpus for probs
+	
 
 * Language Model GRU - Improvement to the auto complete project by using gated recurrent unit (GRU) to build a language model insted of n-gram method.
 	* The model is built using Trax framework from Google
