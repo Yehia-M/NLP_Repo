@@ -22,6 +22,8 @@ Projects for NLP specialization on Coursera.
 
 * Named Entity Recognition LSTM - NER using Embedded layer and LSTM network on Trax
 
+* Neural Machine Translation with Attention - English to German Translator using Attention Model and LSTM
+
 * Parts-of-Speech Tagging - using Viterbi algorithm and hidden markov model (HMM) to determine the <PoS> of a given word
 	
 * Question Duplicates - Detect if two questions are duplicate or not, using Trax built a siamese network with LSTM and triplet loss
