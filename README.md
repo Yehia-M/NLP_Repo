@@ -33,3 +33,5 @@ Projects for NLP specialization on Coursera.
 	* Version 1 - Using Logistic Regression
 	* Version 2 - Using Naive Bayes
 	* Version 3 - Using Deep Neural Network on Trax
+	
+*  Transformer Summarizer: Text Summarization assignment using Transformers
