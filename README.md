@@ -34,4 +34,4 @@ Projects for NLP specialization on Coursera.
 	* Version 2 - Using Naive Bayes
 	* Version 3 - Using Deep Neural Network on Trax
 	
-*  Transformer Summarizer: Text Summarization assignment using Transformers
+*  Transformer Summarizer: Assignment notebook for Text Summarization using Transformers and cnn_dailymail dataset
